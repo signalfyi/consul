@@ -1,1 +1,1 @@
-FROM consul:latest
+FROM consul:latest@sha256:16cf26cb9bec8a45ff1c98906d41446f62197e9349fd50505ade6ebe842472c2
