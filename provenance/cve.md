@@ -1,0 +1,9 @@
+## Dockerfile
+
+### Docker Image: consul:1.15.4
+| Severity | Count |
+|----------|-------|
+| high | 21 |
+| medium | 11 |
+| critical | 2 |
+| low | 1 |
